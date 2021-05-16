@@ -1,0 +1,5 @@
+# Ignore the build directory
+[Bb]uild
+/.vscode/settings.json
+*.png
+!image/*.png
